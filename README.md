@@ -6,8 +6,9 @@ The Colorado Board of Elections has requested an audit to review election result
 ## Resources
 Data Source: election_results.csv - provided by the Colorado Board of Elections
 
-Software: Python 3.9.5.  
-          Visual Studio Code, 1.57.1
+### Software:
++ Python 3.9.5.  
++ Visual Studio Code, 1.57.1
 
 ## Summary
 The analysis of the election shows there were a total of ***369,711*** votes cast in this election.   
