@@ -4,7 +4,8 @@
 The Colorado Board of Elections has requested an audit to review election results of a local congressional election.
 
 ## Resources
-Data Source: election_results.csv - provided by the Colorado Board of Elections
+### Data Source:
+- election_results.csv - provided by the Colorado Board of Elections
 
 ### Software Used:
 + Python 3.9.5.  
