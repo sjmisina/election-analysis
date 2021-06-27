@@ -1,5 +1,5 @@
 # Election_Analysis
-
+-- analysis is incomplete - development underway --
 ## Project Overview
 The Colorado Board of Elections has requested an audit to review election results of a local congressional election.
 
