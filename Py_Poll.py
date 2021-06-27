@@ -56,5 +56,8 @@ winning_candidate_summary = (
     f"Winning Vote Count: {winning_count:,}\n"
     f"Winning Percentage: {winning_percentage:.1f}%\n"
     f"-------------------------\n")
+<<<<<<< HEAD
 
+=======
+>>>>>>> d5473adf7def6b14e1ed106773f9ef545cf80333
 print(winning_candidate_summary)
