@@ -39,5 +39,5 @@ this one county.
 Candidate Diana DeGette won in a landslide by securing 73.8% of all votes tallied in the district.
 
 #### Analyst's Note:
-This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results. You can also modify the output destination by pointing to anotther path and filename if you choose.
+This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results. You can also modify the output destination by pointing to another path and filename if you choose.
 ![Code Snippet](Resources/PNG/target_code.png)
