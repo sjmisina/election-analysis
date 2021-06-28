@@ -32,7 +32,7 @@ As a request from the election commission, county analysis is requested to be pr
 
 #### Challenge Summary
 County participation was calculated from the election_results.csv data source and provided as
-a part of the whole analysiss presented herein. Each individual county name was pulled and total votes tabulated on the county name.
+a part of the whole analysis presented here. Each individual county name was pulled and total votes tabulated on the county name.
 
 #### The turnout by county with percentage of total participation in district:
 ![County Results](Resources/PNG/County_Results.png)
