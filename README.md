@@ -22,6 +22,7 @@ The analysis of the election shows there were a total of ***369,711*** votes cas
 
 #### The candidate results were:
 ![Candidate Results](Resources/PNG/Candidate_Results.png)
+Candidate Diana DeGette won in a landslide by securing 73.8% of all votes tallied in the district.
 
 ## Challenge Overview
 As a request from the election commission, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
@@ -32,12 +33,8 @@ a part of the whole analysiss presented herein. Each individual county name was 
 
 #### The turnout by county with percentage of total participation in district:
 ![County Results](Resources/PNG/County_Results.png)
-
-# Overall Summary
 Denver County had the most influence in the election as 82.8% of all ballots cast were from
 this one county.
-
-Candidate Diana DeGette won in a landslide by securing 73.8% of all votes tallied in the district.
 
 #### Analyst's Note:
 This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results. You can also modify the output destination by pointing to another path and filename if you choose.
