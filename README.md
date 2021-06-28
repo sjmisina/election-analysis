@@ -38,6 +38,9 @@ a part of the whole analysiss presented herein. Each individual county name was 
 Denver County had the most influence in the election as 82.8% of all ballots cast were from
 this one county.
 
+
 #### Analyst's Note:
 This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results. You can also modify the output destination by pointing to another path and filename if you choose.
 ![Code Snippet](Resources/PNG/target_code.png)
+
+
