@@ -13,6 +13,7 @@ The Colorado Board of Elections has requested an audit to review election result
 
 ## Summary
 The analysis of the election shows there were a total of ***369,711*** votes cast in this election. This project pulls out the unique names of the candidates, and tabulates their individual votes across all counties.
+
 ![Total Votes](Resources/PNG/Total_Votes.png)
 #### The candidates were:
 1. Charles Casper Stockham    
