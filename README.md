@@ -12,12 +12,14 @@ The Colorado Board of Elections has requested an audit to review election result
 + Visual Studio Code, 1.57.1
 
 ## Summary
-The analysis of the election shows there were a total of ***369,711*** votes cast in this election. This project pulls out the unique names of the candidates, and tabulates their individual votes across all counties.
+The analysis of the election shows there were a total of ***369,711*** votes cast in this election. 
 
 ![Total Votes](Resources/PNG/Total_Votes.png)
+
+This project pulls out the unique names of the candidates, and tabulates their individual votes across the entire district.
 #### The candidates were:
-1. Charles Casper Stockham    
-2. Diana DeGette    
+1. Charles Casper Stockham
+2. Diana DeGette
 3. Raymon Anthony Doane
 
 #### The candidate results were:
