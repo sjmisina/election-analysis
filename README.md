@@ -42,8 +42,7 @@ this one county.
 
 
 #### Analyst's Note:
-- This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results.
-- You can also modify the output destination by pointing to another path and filename of your choice.
+- This code can be modified to work with any csv file that is in a column format of "ballot_id,county_name, candidate_name" as the line item results. Update line 8 to the pertinant file name, and include it in the "Resources" folder.
+- You can also modify the output destination by pointing to another filename of your choice in line 10, replacing "election_analysis.txt" with the desired output file name.
+- Please note, if making these adjustments, realize the code is pointing to the 'Resources' and 'analysis' directories. This code uses relative paths and changing their target directories could pose a challenge in retrieving, tabulating, and outputting your results.
 ![Code Snippet](Resources/PNG/target_code.png)
-
-
