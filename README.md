@@ -22,6 +22,7 @@ The analysis of the election shows there were a total of ***369,711*** votes cas
 
 #### The candidate results were:
 ![Candidate Results](Resources/PNG/Candidate_Results.png)
+
 Candidate Diana DeGette won in a landslide by securing 73.8% of all votes tallied in the district.
 
 ## Challenge Overview
@@ -33,6 +34,7 @@ a part of the whole analysiss presented herein. Each individual county name was 
 
 #### The turnout by county with percentage of total participation in district:
 ![County Results](Resources/PNG/County_Results.png)
+
 Denver County had the most influence in the election as 82.8% of all ballots cast were from
 this one county.
 
