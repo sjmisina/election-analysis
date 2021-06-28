@@ -14,14 +14,13 @@ The Colorado Board of Elections has requested an audit to review election result
 ## Summary
 The analysis of the election shows there were a total of ***369,711*** votes cast in this election. This project pulls out the unique names of the candidates, and tabulates their individual votes across all counties.
 ![Total Votes](Resources/PNG/Total_Votes.png)
-
 #### The candidates were:
 1. Charles Casper Stockham    
 2. Diana DeGette    
 3. Raymon Anthony Doane
 
 #### The candidate results were:
-![Candidate Results](Resources/PNG/Candidate_Results.png) 
+![Candidate Results](Resources/PNG/Candidate_Results.png)
 
 ## Challenge Overview
 As a request from the election commission, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
