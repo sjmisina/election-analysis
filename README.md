@@ -1,10 +1,10 @@
-# PyPoll with Python
+# State Election Audit
 Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
 Analysis Tools Used: <i><code> Python 3.9.5, Visual Studio Code, 1.57.1 </i></code><br />
 Data Source Provided: <i><code> election_results.csv - provided by the Colorado Board of Elections </code></i>
 
 ## Project Overview
-As a request from the election commission, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
+As a request from the state board, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
 
 ## Data Exploration
 The analysis of the election shows there were a total of ***369,711*** votes cast in this election. 
