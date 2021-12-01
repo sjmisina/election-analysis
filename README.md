@@ -1,17 +1,12 @@
 # PyPoll with Python
+Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
+Analysis Tools Used: <i><code> Python 3.9.5, Visual Studio Code, 1.57.1 </i></code><br />
+Data Source Provided: <i><code> election_results.csv - provided by the Colorado Board of Elections </code></i>
 
 ## Project Overview
-The Colorado Board of Elections has requested an audit to review election results of a local congressional election.
+As a request from the election commission, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
 
-## Resources
-### Data Source:
-- election_results.csv - *provided by the Colorado Board of Elections*
-
-### Software Used:
-+ Python 3.9.5.  
-+ Visual Studio Code, 1.57.1
-
-## Summary
+## Data Exploration
 The analysis of the election shows there were a total of ***369,711*** votes cast in this election. 
 
 ![Total Votes](Resources/PNG/Total_Votes.png)
@@ -27,12 +22,8 @@ This project pulls out the unique names of the candidates, and tabulates their i
 
 Candidate Diana DeGette won in a landslide by securing 73.8% of all votes tallied in the district.
 
-## Challenge Overview
-As a request from the election commission, county analysis is requested to be provided along with the candidate analysis. This will provide insight into participation by county by considering voter turnout by ballots cast. Futhermore, the county with the largest turnout is to be identified separately.
-
-#### Challenge Summary
-County participation was calculated from the election_results.csv data source and provided as
-a part of the whole analysis presented here. Each individual county name was pulled and total votes tabulated on the county name.
+## Summary
+County participation was calculated from the data source and provided as part of the whole analysis presented here. Each individual county name was pulled and total votes tabulated on the county name.
 
 #### The turnout by county with percentage of total participation in district:
 ![County Results](Resources/PNG/County_Results.png)
